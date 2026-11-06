@@ -2,17 +2,17 @@
 
 Static GitHub Pages site with the privacy policy, terms of use, in-app purchase info and support page for each app.
 
-Live at **https://gtdev6.github.io/apps/**
+Live at **https://gtdev6.github.io/legal/**
 
 ## Rebound
 
 | Page | URL | Where it goes |
 |---|---|---|
-| Privacy Policy | https://gtdev6.github.io/apps/rebound/privacy/ | App Store Connect → App Privacy; Play Console → Policy → App content → Privacy policy; in-game Settings |
-| Terms of Use | https://gtdev6.github.io/apps/rebound/terms/ | App description / in-game Settings |
-| In-App Purchases | https://gtdev6.github.io/apps/rebound/purchases/ | Optional link from the store screen |
-| Support | https://gtdev6.github.io/apps/rebound/support/ | App Store Connect → Support URL; Play Console → Store settings → Website |
-| Marketing | https://gtdev6.github.io/apps/rebound/ | App Store Connect → Marketing URL (optional) |
+| Privacy Policy | https://gtdev6.github.io/legal/rebound/privacy/ | App Store Connect → App Privacy; Play Console → Policy → App content → Privacy policy; in-game Settings |
+| Terms of Use | https://gtdev6.github.io/legal/rebound/terms/ | App description / in-game Settings |
+| In-App Purchases | https://gtdev6.github.io/legal/rebound/purchases/ | Optional link from the store screen |
+| Support | https://gtdev6.github.io/legal/rebound/support/ | App Store Connect → Support URL; Play Console → Store settings → Website |
+| Marketing | https://gtdev6.github.io/legal/rebound/ | App Store Connect → Marketing URL (optional) |
 
 ## Changing the contact email
 
