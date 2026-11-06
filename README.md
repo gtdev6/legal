@@ -16,10 +16,10 @@ Live at **https://gtdev6.github.io/legal/**
 
 ## Changing the contact email
 
-The pages use `support@example.com` as a placeholder. Replace it everywhere:
+The pages use `gtdev6@gmail.com` as the contact address. To change it everywhere:
 
 ```bash
-grep -rl 'support@example.com' . | xargs sed -i '' 's/support@example\.com/you@yourdomain.com/g'
+grep -rl 'gtdev6@gmail.com' . | xargs sed -i '' 's/support@example\.com/you@yourdomain.com/g'
 ```
 
 ## Adding another app
